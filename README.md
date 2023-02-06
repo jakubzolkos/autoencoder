@@ -1,4 +1,4 @@
-# autoencoder
+# Anomaly Detection via Autoencoder Network
 Repository for EC503: Introduction to Learning From Data final project: Anomaly detection with a convolutional autoencoder framework
 
 1. Download the repository
